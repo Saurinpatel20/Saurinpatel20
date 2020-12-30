@@ -7,12 +7,12 @@ I'm a Senior (Grade 12) High School Student attending Sir Winston Churchill Seco
  * I also upload to showcase *semi-complete* projects that I will not be completing due to time restraints or other limitations
  
 ### 🎓 I am currently working on...
- * A Robotics Adaptive Pure Pursuit Motion algorithm using a differential drive with the Vex V5 platform
- * Creating a responsive website for my Github profile using HTML and CSS
- * Learning many programming languages fluently
+ * Creating a responsive website for my Github profile using HTML, CSS, and Javascript
+ * Learning C, HTML, CSS, and Javascript
+ * Creating a productivity app with Neumorphic styling
 
 ### 📫 How to reach me...
-[Email](mailto:patelsa@students.dsbn.org)
+[Email](mailto:saurinpatel222@gmail.com)
 
 <!--
 **Saurinpatel20/saurinpatel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
