@@ -9,7 +9,7 @@ I'm a Senior (Grade 12) High School Student attending Sir Winston Churchill Seco
 ### 🎓 I am currently working on...
  * Creating a responsive website for my Github profile using HTML, CSS, and Javascript
  * Learning C, HTML, CSS, and Javascript
- * Creating a productivity app with Neumorphic styling
+ * Creating a stock options screener with Neumorphic styling
 
 ### 📫 How to reach me...
 [Email](mailto:saurinpatel222@gmail.com)
