@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior (Grade 12) High School Student attending Sir Winston Churchill Secondary school in Canada. I am an ambitious programmer and working on enhancing my skills in advanced level programming for software development and engineering/robotics!
+I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ambitious programmer and working on enhancing my skills in advanced level programming for software development and engineering/robotics!
 
 ### ⚡ Uploading Projects
  * I usually upload my projects to Github once I have made significant programming progress or have completed the entire project
