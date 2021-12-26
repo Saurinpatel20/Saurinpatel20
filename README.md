@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ambitious programmer and working on enhancing my skills in advanced level programming for full stack software development!
-
-### ⚡ Uploading Projects
- * I usually upload my projects to Github once I have made significant programming progress or have completed the entire project
- * I also upload to showcase *semi-complete* projects that I will not be completing due to time restraints or other limitations
  
 ### 🎓 I am currently working on...
  * Creating a responsive website for my Github profile using HTML, CSS, and Javascript
