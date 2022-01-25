@@ -4,8 +4,7 @@ I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am
  
 ### 🎓 I am currently working on...
  * Creating a responsive website for my Github profile using HTML, CSS, and Javascript
- * Learning C, HTML, CSS, and Javascript
- * Creating a stock options screener with Neumorphic styling
+ * Learning C and Javascript
 
 ### 📫 How to reach me...
 [Email](mailto:saurinpatel222@gmail.com)
