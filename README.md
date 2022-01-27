@@ -3,7 +3,7 @@
 I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am an ambitious programmer and working on enhancing my skills in advanced level programming for full stack software development!
  
 ### 🎓 I am currently working on...
- * Creating a responsive website for my Github profile using HTML, CSS, and Javascript
+ * Creating a Desktop website for my Github profile using HTML, CSS, and Javascript
  * Learning C and Javascript
 
 ### 📫 How to reach me...
