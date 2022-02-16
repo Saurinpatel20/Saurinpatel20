@@ -5,7 +5,7 @@ I'm a University of Waterloo Computer Science Student from Ontario, Canada. I am
 ### 🎓 I am currently working on...
  * Creating a Desktop website for my Github profile using HTML, CSS, and Javascript
  * Learning C and Javascript
- * Contributing to the Vex U team UWAT
+ * Contributing to the UWAT VexU team
 
 ### 📫 How to reach me...
 [Email](mailto:saurinpatel222@gmail.com)
