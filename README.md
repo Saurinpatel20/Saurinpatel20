@@ -1,13 +1,13 @@
-![Saurin Patel - Banner](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/ae57ec48-eac0-421d-8858-79e4d0518733)
+![Saurin Patel - Banner](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/a5341073-adf9-4869-a264-9f6f69df1e2f)
 
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/6f0df538-ed16-4726-9519-e9f790bfce25" alt="Pin" width="16"/> I'm a University of Waterloo Computer Science Student from Ontario, Canada.
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Winter 2024 Coops
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/6f0df538-ed16-4726-9519-e9f790bfce25" alt="Pin" width="16"/> I'm a 3A Computer Science student at the University of Waterloo.
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Winter 2024 Coops 
 
-### Experiences
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/46e49b74-8340-42a6-94fa-f0de049b9148" alt="Floppy Disk" width="16"/> Embedded Software Developer @ Siemens Healthineers - Fall 2022
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/84f50941-51df-427f-82fa-f697053576e8" alt="Computer" width="16"/> iOS Engineer @ AutoTrader.ca - Spring 2023 
+## Experiences
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/84f50941-51df-427f-82fa-f697053576e8" alt="Computer" width="16"/> iOS Engineer @ [AutoTrader.ca](https://www.linkedin.com/company/trader-corporation/) - Spring 2023 
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/46e49b74-8340-42a6-94fa-f0de049b9148" alt="Floppy Disk" width="16"/> Embedded Software Developer @ [Siemens Healthineers](https://www.linkedin.com/company/siemens-healthineers/) - Fall 2022
 
-### Tech Stack
+## Tech Stack
 #### Languages
 ![image](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/7ea479fa-f6ad-49f2-94bc-30b5bcbed32c) ![image](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/5b41d77e-e444-4b3a-83c5-fc4a122a2666)
 ![image](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/2f737911-f00f-402c-a08b-dd1d33cc731b) ![image](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/5785cd1f-4f42-4659-af8c-26503fe6aa50)
@@ -22,10 +22,8 @@
 ![image](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/a6e2b5c3-d0da-41e8-a9da-0093d2567158) ![image](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/8012af2e-6c52-46e8-962f-4c26008ae05b)
 ![image](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/029f65fc-fc79-4ce3-9cee-f12e5f7b1c7d)
 
-### <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/73b37cf7-2017-4701-8811-fd04a927ba46" alt="Email" width="18"/> Connect with Me
+## <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/73b37cf7-2017-4701-8811-fd04a927ba46" alt="Email" width="18"/> Connect with Me
 
 I am always excited to expand my skill set and explore new technologies. If you have any suggestions or opportunities for collaboration, feel free to reach out!
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/saurinpatel20/) for professional networking. Let's connect and discuss exciting projects or tech-related topics!
-
-I am also available via [Email](mailto:saurinpatel222@gmail.com)! Looking forward to connecting with you! <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/1a91fb73-4d17-4b42-8f82-9355589735ae" alt="Smiling Emoji" width="18" style=""/>
