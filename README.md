@@ -1,7 +1,7 @@
 ![Saurin Patel - Banner](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/a5341073-adf9-4869-a264-9f6f69df1e2f)
 
 - <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/6f0df538-ed16-4726-9519-e9f790bfce25" alt="Pin" width="16"/> I'm a 3A Computer Science student at the University of Waterloo.
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Winter 2024 Coops 
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Spring 2024 Coops 
 
 ## Experiences
 - <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/84f50941-51df-427f-82fa-f697053576e8" alt="Computer" width="16"/> iOS Engineer @ [AutoTrader.ca](https://www.linkedin.com/company/trader-corporation/) - Spring 2023 
