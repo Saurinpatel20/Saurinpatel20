@@ -1,12 +1,12 @@
-![Saurin Patel - Banner](https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/a5341073-adf9-4869-a264-9f6f69df1e2f)
+![Saurin Patel Banner](https://github.com/user-attachments/assets/c9254091-d2ba-47e3-8864-f5d341f61332)
 
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/6f0df538-ed16-4726-9519-e9f790bfce25" alt="Pin" width="16"/> I'm a 3B Computer Science student at the University of Waterloo.
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Fall 2024 Coops 
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/6f0df538-ed16-4726-9519-e9f790bfce25" alt="Pin" width="16"/> I'm a 4A Computer Science student at the University of Waterloo.
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Summer 2025 Internships.
 
 ## Experiences
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/7263b9c1-f08b-429c-9216-1f73445f5c06" alt="keyboard" width="16"/> iOS Engineer @ [Faire](https://www.linkedin.com/company/fairewholesale/) - Spring 2024
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/84f50941-51df-427f-82fa-f697053576e8" alt="Computer" width="16"/> iOS Engineer @ [AutoTrader.ca](https://www.linkedin.com/company/trader-corporation/) - Spring 2023 
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/46e49b74-8340-42a6-94fa-f0de049b9148" alt="Floppy Disk" width="16"/> Embedded Software Developer @ [Siemens Healthineers](https://www.linkedin.com/company/siemens-healthineers/) - Fall 2022
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/7263b9c1-f08b-429c-9216-1f73445f5c06" alt="keyboard" width="16"/> Software Engineer @ [Faire](https://www.linkedin.com/company/fairewholesale/) - Spring 2024
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/84f50941-51df-427f-82fa-f697053576e8" alt="Computer" width="16"/> Software Engineer @ [AutoTrader.ca](https://www.linkedin.com/company/trader-corporation/) - Spring 2023 
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/46e49b74-8340-42a6-94fa-f0de049b9148" alt="Floppy Disk" width="16"/> Software Engineer - Embedded @ [Siemens Healthineers](https://www.linkedin.com/company/siemens-healthineers/) - Fall 2022
 
 ## Tech Stack
 #### Languages
@@ -27,4 +27,4 @@
 
 I am always excited to expand my skill set and explore new technologies. If you have any suggestions or opportunities for collaboration, feel free to reach out!
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/saurinpatel20/) for professional networking. Let's connect and discuss exciting projects or tech-related topics!
+You can find me on [LinkedIn](https://www.linkedin.com/in/saurinpatel20/) for professional networking. Let's connect and discuss exciting projects or tech-related topics
